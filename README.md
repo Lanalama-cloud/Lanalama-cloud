@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lanalama-cloud!
-- 👀 I’m interested in Python, data analysis, data science, big data and maching learning.
+- 👋 Hi, I’m @Lanalama-cloud! I am a Talent Sourcer with almost 3 years of experience :)
+- 👀 Also, I’m interested in Python, data analysis, data science, big data and maching learning.
 - 🌱 I’m currently studying at Neoversity on Software Engineer bachelor degree.
 - 💞️ I’m looking to collaborate on studying together and learn new staff!
 - 📫 You can reach me on telegram: @lanakrup or via work-email: lkrupelnytska@gmail.com
